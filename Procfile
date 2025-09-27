@@ -1,0 +1,1 @@
+worker: python Bahiabicicleta.py & python Bahiapatineta.py
